@@ -1,5 +1,7 @@
 package com.qdw.shejimoshi.guanchazhe;
 
+
+
 /**
  * @Author: xiaomi
  * @Description: TODO
@@ -7,16 +9,16 @@ package com.qdw.shejimoshi.guanchazhe;
  */
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        Subject subject = new SubjectImpl();
+        SubjectAbs subjectAbs = new SubjectImpl();
         Observer observer1 = new ObserverImpl1();
         Observer observer2 = new ObserverImpl2();
 
-        subject.attach(observer1);
-        subject.attach(observer2);
+        subjectAbs.attach(observer1);
+        subjectAbs.attach(observer2);
 
         for (int i = 0; i < 10; i++) {
-            subject.execute();
-            subject.notifyObs();
+            subjectAbs.execute();
+            subjectAbs.notifyObs();
             Thread.sleep(1000);
         }
     }

@@ -9,7 +9,7 @@ import java.util.Date;
  * @Description: TODO
  * @date: 2020/7/18 下午3:00
  */
-public class SubjectImpl extends Subject {
+public class SubjectImpl extends SubjectAbs {
     private String data;
     public Object getData() {
         return data;

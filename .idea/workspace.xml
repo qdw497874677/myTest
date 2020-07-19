@@ -20,106 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33487fd1-24a3-42aa-aeae-1e646b79a083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/celue/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/celue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/celue/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/celue/Strategy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/celue/Strategy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/daili/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/daili/RealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/daili/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/ObserverImpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/ObserverImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/SubjectImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/zerenlian/Hander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/zerenlian/HanderImpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/zerenlian/HanderImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/zerenlian/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/zerenlian/Trouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/myTest.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/daili/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/Test3/Test8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/Test9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/kstest426/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/kstest426/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/kstest426/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/kstest426/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/kstest426/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/kstest426/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/kstest426/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/kstest426/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/kujiale/IdCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/kujiale/IdCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/kujiale/SystemDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/kujiale/SystemDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/kujiale/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/kujiale/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/kujiale/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/interview/kujiale/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/AbcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/AbcTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/LazyMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/LazyMan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Local.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Local.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/PC_New.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/PC_New.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/SingletonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/main/Test9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/Fast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Fast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/FastNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/FastNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/FastTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/FastTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/LockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/LockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test2/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test2/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test2/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test2/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test2/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test2/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test2/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test2/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test2/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test427/Test7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/daili/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/daili/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/daili/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/daili/RealSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/ObserverImpl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/ObserverImpl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/ObserverImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/ObserverImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/SubjectAbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/SubjectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/shejimoshi/guanchazhe/SubjectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qdw/test/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qdw/test/Test6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +103,7 @@
       <recent name="com.qdw.main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test6">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qdw.shejimoshi.zerenlian.Main" />
       <module name="myTest" />
@@ -212,6 +123,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.qdw.shejimoshi.celue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qdw.shejimoshi.daili.Main" />
+      <module name="myTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qdw.shejimoshi.daili.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,26 +169,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test7 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qdw.test427.Test7" />
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qdw.test427.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Test6" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test7 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +231,7 @@
       <workItem from="1590628465577" duration="7129000" />
       <workItem from="1593698672526" duration="3093000" />
       <workItem from="1594738903066" duration="714000" />
-      <workItem from="1595053576191" duration="19398000" />
+      <workItem from="1595053576191" duration="22969000" />
     </task>
     <servers />
   </component>
@@ -351,59 +262,63 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="464" y="211" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1589771895796" />
-    <state x="756" y="191" width="378" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1595071758976">
+    <state x="756" y="191" width="378" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1595138252836">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593702527210" />
-    <state x="756" y="191" width="378" height="562" key="#com.intellij.ide.util.MemberChooser/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595071758976" />
+    <state x="756" y="191" width="378" height="562" key="#com.intellij.ide.util.MemberChooser/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595138252836" />
     <state x="548" y="271" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587130767132">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="271" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1587130767132" />
+    <state x="661" y="150" width="638" height="806" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595138104407">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="661" y="150" width="638" height="806" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595138104407" />
     <state x="1195" y="237" key="FileChooserDialogImpl" timestamp="1595057024664">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state x="1195" y="237" key="FileChooserDialogImpl/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595057024664" />
-    <state width="1807" height="234" key="GridCell.Tab.0.bottom" timestamp="1595077832331">
+    <state width="1807" height="329" key="GridCell.Tab.0.bottom" timestamp="1595138438445">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593702819743" />
-    <state width="1807" height="234" key="GridCell.Tab.0.bottom/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595077832331" />
-    <state width="1807" height="234" key="GridCell.Tab.0.center" timestamp="1595077832331">
+    <state width="1807" height="329" key="GridCell.Tab.0.bottom/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595138438445" />
+    <state width="1807" height="329" key="GridCell.Tab.0.center" timestamp="1595138438445">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593702819743" />
-    <state width="1807" height="234" key="GridCell.Tab.0.center/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595077832331" />
-    <state width="1807" height="234" key="GridCell.Tab.0.left" timestamp="1595077832331">
+    <state width="1807" height="329" key="GridCell.Tab.0.center/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595138438445" />
+    <state width="1807" height="329" key="GridCell.Tab.0.left" timestamp="1595138438445">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593702819743" />
-    <state width="1807" height="234" key="GridCell.Tab.0.left/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595077832331" />
-    <state width="1807" height="234" key="GridCell.Tab.0.right" timestamp="1595077832331">
+    <state width="1807" height="329" key="GridCell.Tab.0.left/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595138438445" />
+    <state width="1807" height="329" key="GridCell.Tab.0.right" timestamp="1595138438445">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593702819743" />
-    <state width="1807" height="234" key="GridCell.Tab.0.right/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595077832331" />
-    <state width="1807" height="199" key="GridCell.Tab.1.bottom" timestamp="1595077109240">
+    <state width="1807" height="329" key="GridCell.Tab.0.right/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595138438445" />
+    <state width="1807" height="199" key="GridCell.Tab.1.bottom" timestamp="1595135328509">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587907675803" />
-    <state width="1807" height="199" key="GridCell.Tab.1.bottom/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595077109240" />
-    <state width="1807" height="199" key="GridCell.Tab.1.center" timestamp="1595077109240">
+    <state width="1807" height="199" key="GridCell.Tab.1.bottom/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595135328509" />
+    <state width="1807" height="199" key="GridCell.Tab.1.center" timestamp="1595135328508">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587907675803" />
-    <state width="1807" height="199" key="GridCell.Tab.1.center/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595077109240" />
-    <state width="1807" height="199" key="GridCell.Tab.1.left" timestamp="1595077109240">
+    <state width="1807" height="199" key="GridCell.Tab.1.center/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595135328508" />
+    <state width="1807" height="199" key="GridCell.Tab.1.left" timestamp="1595135328508">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587907675803" />
-    <state width="1807" height="199" key="GridCell.Tab.1.left/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595077109240" />
-    <state width="1807" height="199" key="GridCell.Tab.1.right" timestamp="1595077109240">
+    <state width="1807" height="199" key="GridCell.Tab.1.left/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595135328508" />
+    <state width="1807" height="199" key="GridCell.Tab.1.right" timestamp="1595135328508">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587907675803" />
-    <state width="1807" height="199" key="GridCell.Tab.1.right/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595077109240" />
+    <state width="1807" height="199" key="GridCell.Tab.1.right/61.27.1859.1053/1920.0.1920.1080@61.27.1859.1053" timestamp="1595135328508" />
     <state x="321" y="44" width="1151" height="845" key="SettingsEditor" timestamp="1595057131955">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>

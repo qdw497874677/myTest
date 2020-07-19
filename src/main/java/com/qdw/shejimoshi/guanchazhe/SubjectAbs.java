@@ -9,9 +9,9 @@ import java.util.List;
  * @Description: TODO
  * @date: 2020/7/18 下午2:42
  */
-public abstract class Subject {
+public abstract class SubjectAbs {
     private List<Observer> observers;
-    public Subject(){
+    public SubjectAbs(){
         observers = new ArrayList<Observer>();
     }
     public void attach(Observer observer){

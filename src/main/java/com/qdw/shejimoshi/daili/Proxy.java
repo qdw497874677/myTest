@@ -19,14 +19,14 @@ public class Proxy implements Subject {
     }
 
     @Override
-    public void print(String name) {
+    public void print(String word) {
         realize();
-        realSubject.print(name);
+        realSubject.print(word);
     }
 
     public synchronized void realize(){
-        if (realSubject != null){
-            realSubject = new RealSubject();
+        if (realSubject == null){
+            realSubject = new RealSubject(name);
         }
     }
 }

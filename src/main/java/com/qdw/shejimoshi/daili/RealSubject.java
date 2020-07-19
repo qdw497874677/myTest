@@ -7,7 +7,8 @@ package com.qdw.shejimoshi.daili;
  */
 public class RealSubject implements Subject {
     private String name;
-    public RealSubject(){
+    public RealSubject(String name){
+        this.name = name;
         heavyJob();
     }
 
@@ -35,7 +36,7 @@ public class RealSubject implements Subject {
     }
 
     @Override
-    public void print(String name) {
-        System.out.println("我的名字是 "+name);
+    public void print(String word) {
+        System.out.println(name+"说:"+word);
     }
 }
