@@ -1,4 +1,4 @@
-package com.qdw.kstest426;
+package com.qdw.interview.kstest426;
 
 import java.util.*;
 

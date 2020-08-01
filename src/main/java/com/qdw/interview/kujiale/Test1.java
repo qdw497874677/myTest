@@ -1,4 +1,4 @@
-package com.qdw.kujiale;
+package com.qdw.interview.kujiale;
 
 import java.io.*;
 import java.util.Scanner;
