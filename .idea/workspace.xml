@@ -54,6 +54,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/pinduoduo/Test2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/pinduoduo/Test3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/pinduoduo/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/xiecheng/Test1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/qdw/zijietiaodong/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -290,6 +291,7 @@
       <workItem from="1599130833920" duration="8713000" />
       <workItem from="1599388873440" duration="12590000" />
       <workItem from="1599462178836" duration="10131000" />
+      <workItem from="1599561384149" duration="242000" />
     </task>
     <servers />
   </component>
