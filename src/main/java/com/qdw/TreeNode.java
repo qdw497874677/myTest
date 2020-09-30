@@ -1,5 +1,7 @@
 package com.qdw;
 
+import javafx.scene.layout.Priority;
+
 /**
  * @PackageName:com.qdw
  * @ClassName: TreeNode
@@ -7,9 +9,9 @@ package com.qdw;
  * @date: 2020/8/8 0008 13:26
  */
 public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
     public TreeNode(int val){
         this.val = val;
     }
